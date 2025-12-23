@@ -1,0 +1,20 @@
+{
+  "preset1": {
+    "message": "# @everyone discord.gg/pytools",
+    "new_server_name": ".gg/pytools",
+    "change_notification": true,
+    "add_admin": false,
+    "channel_name": "Net-Network",
+    "text_channel_amount": 40,
+    "voice_channel_amount": 1
+  },
+  "preset2": {
+    "message": "@everyone discord.gg/a37rpmdHnA",
+    "new_server_name": "discord.gg/a37rpmdHnA",
+    "change_notification": true,
+    "add_admin": false,
+    "channel_name": "channel",
+    "text_channel_amount": 30,
+    "voice_channel_amount": 1
+  }
+}

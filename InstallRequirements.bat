@@ -1,0 +1,11 @@
+pip install discord
+pip install asyncio
+pip install os
+pip install sys
+pip install json
+pip install keyboard
+pip install colorama
+pip install time
+pip install fernet
+pip install aiohttp
+pip install datetime
