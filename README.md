@@ -1,4 +1,4 @@
-# Discord server nuker!
+# Discord server nuker! 
 
 ## Easily nuke any Discord server using this fast & efficient python open source project!
 
